@@ -1,6 +1,6 @@
 # HR_Analytics
-<br>
-<br>
+
+
 Analyzing HR data and creating a dashboard using PowerBI, with a focus on answering the following:
 <br>
 1. How many people are in each job?
