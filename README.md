@@ -1,4 +1,4 @@
-# HR_Analytics **bold text**
+# HR_Analytics <strong>bold text</strong>
 
 
 Analyzing HR data and creating a dashboard using PowerBI, with a focus on answering the following:
