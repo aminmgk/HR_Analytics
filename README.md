@@ -1,6 +1,6 @@
-# HR_Analytics
+# HR Analytics
 
-Insightful HR analytics with PowerBI dashboards, covering workforce distribution, gender breakdown, age demographics, salary disparities, top earners, qualification versus salary, staff growth trends, employee filtering, and leave balance analysis. Explore a succinct HR dashboard for quick access to key metrics, facilitating informed decision-making.
+Insightful HR analysis with PowerBI dashboards, covering workforce distribution, gender breakdown, age demographics, salary disparities, top earners, qualification versus salary, staff growth trends, employee filtering, and leave balance analysis. Explore a succinct HR dashboard for quick access to key metrics, facilitating informed decision-making.
 
 <br>
 
