@@ -2,6 +2,9 @@
 
 Analyzing HR data and creating a dashboard using PowerBI, with a focus on answering the following:
 1. How many people are in each job?
+<img src="https://imgur.com/m9LH0jA" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
 2. Gender break-down of the staff
 3. Age spread of the staff
 4. Which jobs pay more?
