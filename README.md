@@ -2,7 +2,7 @@
 
 Analyzing HR data and creating a dashboard using PowerBI, with a focus on answering the following:
 1. How many people are in each job?
-<img src="https://i.imgur.com/gallery/q3uoAYr" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<![Screenshot 2024-04-10 111628](https://github.com/aminmgk/HR_Analytics/assets/109310999/bea84382-9de5-481c-a7b2-032c0491902e)>
 <img src="https://i.imgur.com/gallery/j0a3ZO0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
